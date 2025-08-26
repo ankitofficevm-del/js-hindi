@@ -31,5 +31,5 @@ let isLoggedIn = true // or false yhe hogya boolean types
 
 console.log(typeof age) // isske khte hai kisska typeof pta krna
 console.log(typeof undefined) // isske type undefined hai
-console.log(typeof null)  // isska type object hai
+console.log(typeof null)  // isska type object hai 
 console.log(typeof "Ankit")
